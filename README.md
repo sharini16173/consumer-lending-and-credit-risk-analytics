@@ -1,4 +1,4 @@
-# Consumer Lending Portfolio & Credit Risk Analytics | SQL + Power BI
+# Consumer Lending & Credit Risk Analytics | SQL + Power BI
 
 ## 📖 Project Summary
 
